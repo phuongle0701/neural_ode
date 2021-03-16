@@ -1,1 +1,1 @@
-# neural_ode
+# Neural Ordinary Differential Equations
